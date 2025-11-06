@@ -33,5 +33,5 @@ The full tool and source are licensed and sold via Gumroad.
 
 ---
 
-Developed by **Jeremias Amado**  
-Cybersecurity Student & Python Developer 🔐
+Developed by **Jeremiah**  
+
