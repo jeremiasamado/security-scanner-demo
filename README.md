@@ -15,8 +15,8 @@ It analyzes any website and generates `.txt` and `.html` reports.
 
 ## 💡 Full Version
 Get the complete version (ready-to-use `.exe`, README EN/PT, LICENSE, and support)  
-👉 **Available on Gumroad:**  
-[🔗 https://jeremias453.gumroad.com/l/securityscanner](https://jeremias453.gumroad.com/l/securityscanner)
+👉 **Available on itch.io:**  
+https://ne0sync.itch.io/security-scanner-python-web-security-tool
 
 ---
 
