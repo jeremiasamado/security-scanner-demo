@@ -24,7 +24,7 @@ Perfect for:
 
 ### 🚀 Full Version  
 Get the ready-to-use `.exe` build, multilingual README, LICENSE, and support here:  
-👉 [**Available on Itch.io**](https://neo0sync.itch.io/security-scanner-python-web-security-tool)
+👉 https://ne0sync.itch.io/security-scanner-python-web-security-tool
 
 ---
 
